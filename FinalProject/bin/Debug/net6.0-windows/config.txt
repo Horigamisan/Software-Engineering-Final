@@ -1,0 +1,3 @@
+window
+NGUYENPHUC\TRONGPHUC
+FinalProjectDb
